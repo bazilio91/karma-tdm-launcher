@@ -1,0 +1,5 @@
+# IDE
+/.idea
+/karma-device-manager-launcher.iml
+
+/node_modules

@@ -1,0 +1,36 @@
+{
+  "name": "karma-device-manager-launcher",
+  "version": "0.1.4",
+  "description": "A Karma plugin. Launcher for test-device-manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/karma-runner/karma-chrome-launcher.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-launcher",
+    "test-device-manager"
+  ],
+  "author": "Vasiliy Ostanin <bazilio91@gmail.com>",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "ngrok": "^0.1.97",
+    "q": "^1.0.1",
+    "socket.io-client": "<1",
+    "useragent": "^2.0.9"
+  },
+  "peerDependencies": {
+    "karma": ">=0.9.3"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-npm": "~0.0.2",
+    "grunt-bump": "~0.0.6",
+    "grunt-auto-release": "~0.0.2"
+  }
+}
