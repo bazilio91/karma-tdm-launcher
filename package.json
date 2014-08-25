@@ -1,6 +1,6 @@
 {
-  "name": "karma-device-manager-launcher",
-  "version": "0.1.4",
+  "name": "karma-tdm-launcher",
+  "version": "0.1.0",
   "description": "A Karma plugin. Launcher for test-device-manager.",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/karma-runner/karma-chrome-launcher.git"
+    "url": "git://github.com/bazilio91/karma-tdm-launcher.git"
   },
+  "bugs": {
+    "url": "https://github.com/bazilio91/karma-tdm-launcher/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/bazilio91/karma-tdm-launcher/blob/master/LICENSE"
+    }
+  ],
   "keywords": [
     "karma-plugin",
     "karma-launcher",
