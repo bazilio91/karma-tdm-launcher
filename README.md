@@ -1,4 +1,6 @@
 # karma-tdm-launcher
+[![Dependency Status](https://david-dm.org/bazilio91/karma-tdm-launcher.svg)](https://david-dm.org/bazilio91/karma-tdm-launcher)
+[![devDependency Status](https://david-dm.org/bazilio91/karma-tdm-launcher/dev-status.svg)](https://david-dm.org/bazilio91/karma-tdm-launcher#info=devDependencies)
 
 > Run your unit tests on anywhere
 
